@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\bubbleSortRecursive\bubbleSortRecursive\bin\Debug\bubbleSortRecursive.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\bubbleSortRecursive\bubbleSortRecursive\bin\Debug\bubbleSortRecursive.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\bubbleSortRecursive\bubbleSortRecursive\bin\Debug\bubbleSortRecursive.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\bubbleSortRecursive\bubbleSortRecursive\obj\Debug\bubbleSortRecursive.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\bubbleSortRecursive\bubbleSortRecursive\obj\Debug\bubbleSortRecursive.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\bubbleSortRecursive\bubbleSortRecursive\obj\Debug\bubbleSortRecursive.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\bubbleSortRecursive\bubbleSortRecursive\obj\Debug\bubbleSortRecursive.pdb

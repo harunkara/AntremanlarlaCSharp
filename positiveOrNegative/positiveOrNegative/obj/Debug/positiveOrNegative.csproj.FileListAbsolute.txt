@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\positiveOrNegative\positiveOrNegative\bin\Debug\positiveOrNegative.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\positiveOrNegative\positiveOrNegative\bin\Debug\positiveOrNegative.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\positiveOrNegative\positiveOrNegative\bin\Debug\positiveOrNegative.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\positiveOrNegative\positiveOrNegative\obj\Debug\positiveOrNegative.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\positiveOrNegative\positiveOrNegative\obj\Debug\positiveOrNegative.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\positiveOrNegative\positiveOrNegative\obj\Debug\positiveOrNegative.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\positiveOrNegative\positiveOrNegative\obj\Debug\positiveOrNegative.pdb

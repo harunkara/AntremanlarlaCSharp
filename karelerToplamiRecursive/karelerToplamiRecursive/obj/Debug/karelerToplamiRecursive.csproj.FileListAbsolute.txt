@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karelerToplamiRecursive\karelerToplamiRecursive\bin\Debug\karelerToplamiRecursive.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karelerToplamiRecursive\karelerToplamiRecursive\bin\Debug\karelerToplamiRecursive.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karelerToplamiRecursive\karelerToplamiRecursive\bin\Debug\karelerToplamiRecursive.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karelerToplamiRecursive\karelerToplamiRecursive\obj\Debug\karelerToplamiRecursive.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karelerToplamiRecursive\karelerToplamiRecursive\obj\Debug\karelerToplamiRecursive.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karelerToplamiRecursive\karelerToplamiRecursive\obj\Debug\karelerToplamiRecursive.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karelerToplamiRecursive\karelerToplamiRecursive\obj\Debug\karelerToplamiRecursive.pdb

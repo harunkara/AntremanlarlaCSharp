@@ -1,0 +1,6 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.pdb

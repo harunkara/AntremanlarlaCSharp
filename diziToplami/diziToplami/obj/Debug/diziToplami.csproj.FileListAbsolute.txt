@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziToplami\diziToplami\obj\Debug\diziToplami.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziToplami\diziToplami\obj\Debug\diziToplami.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziToplami\diziToplami\bin\Debug\diziToplami.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziToplami\diziToplami\bin\Debug\diziToplami.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziToplami\diziToplami\bin\Debug\diziToplami.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziToplami\diziToplami\obj\Debug\diziToplami.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziToplami\diziToplami\obj\Debug\diziToplami.pdb

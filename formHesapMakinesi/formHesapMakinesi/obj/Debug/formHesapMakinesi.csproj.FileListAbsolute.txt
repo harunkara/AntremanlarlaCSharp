@@ -1,0 +1,10 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\bin\Debug\formHesapMakinesi.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\bin\Debug\formHesapMakinesi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\bin\Debug\formHesapMakinesi.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\obj\Debug\formHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\obj\Debug\formHesapMakinesi.Form1.resources
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\obj\Debug\formHesapMakinesi.Properties.Resources.resources
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\obj\Debug\formHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\obj\Debug\formHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\obj\Debug\formHesapMakinesi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\formHesapMakinesi\formHesapMakinesi\obj\Debug\formHesapMakinesi.pdb

@@ -1,0 +1,14 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\bin\Debug\structDizideBilgi.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\bin\Debug\structDizideBilgi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\bin\Debug\structDizideBilgi.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\obj\Debug\structDizideBilgi.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\obj\Debug\structDizideBilgi.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\obj\Debug\structDizideBilgi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\obj\Debug\structDizideBilgi.pdb
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\bin\Debug\structDizideBilgi.exe.config
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\bin\Debug\structDizideBilgi.exe
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\bin\Debug\structDizideBilgi.pdb
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\obj\Debug\structDizideBilgi.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\obj\Debug\structDizideBilgi.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\obj\Debug\structDizideBilgi.exe
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\structDizideBilgi\structDizideBilgi\obj\Debug\structDizideBilgi.pdb

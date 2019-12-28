@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\stokÖrnekYasinHoca\stokÖrnekYasinHoca\bin\Debug\stokÖrnekYasinHoca.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\stokÖrnekYasinHoca\stokÖrnekYasinHoca\bin\Debug\stokÖrnekYasinHoca.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\stokÖrnekYasinHoca\stokÖrnekYasinHoca\bin\Debug\stokÖrnekYasinHoca.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\stokÖrnekYasinHoca\stokÖrnekYasinHoca\obj\Debug\stokÖrnekYasinHoca.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\stokÖrnekYasinHoca\stokÖrnekYasinHoca\obj\Debug\stokÖrnekYasinHoca.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\stokÖrnekYasinHoca\stokÖrnekYasinHoca\obj\Debug\stokÖrnekYasinHoca.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\stokÖrnekYasinHoca\stokÖrnekYasinHoca\obj\Debug\stokÖrnekYasinHoca.pdb

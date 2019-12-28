@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaSınavRegexDistinct\oktayHocaSınavRegexDistinct\bin\Debug\oktayHocaSınavRegexDistinct.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaSınavRegexDistinct\oktayHocaSınavRegexDistinct\bin\Debug\oktayHocaSınavRegexDistinct.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaSınavRegexDistinct\oktayHocaSınavRegexDistinct\bin\Debug\oktayHocaSınavRegexDistinct.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaSınavRegexDistinct\oktayHocaSınavRegexDistinct\obj\Debug\oktayHocaSınavRegexDistinct.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaSınavRegexDistinct\oktayHocaSınavRegexDistinct\obj\Debug\oktayHocaSınavRegexDistinct.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaSınavRegexDistinct\oktayHocaSınavRegexDistinct\obj\Debug\oktayHocaSınavRegexDistinct.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaSınavRegexDistinct\oktayHocaSınavRegexDistinct\obj\Debug\oktayHocaSınavRegexDistinct.pdb

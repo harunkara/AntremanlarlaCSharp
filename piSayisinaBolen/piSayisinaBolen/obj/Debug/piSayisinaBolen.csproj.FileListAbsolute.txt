@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\piSayisinaBolen\piSayisinaBolen\bin\Debug\piSayisinaBolen.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\piSayisinaBolen\piSayisinaBolen\bin\Debug\piSayisinaBolen.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\piSayisinaBolen\piSayisinaBolen\bin\Debug\piSayisinaBolen.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\piSayisinaBolen\piSayisinaBolen\obj\Debug\piSayisinaBolen.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\piSayisinaBolen\piSayisinaBolen\obj\Debug\piSayisinaBolen.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\piSayisinaBolen\piSayisinaBolen\obj\Debug\piSayisinaBolen.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\piSayisinaBolen\piSayisinaBolen\obj\Debug\piSayisinaBolen.pdb

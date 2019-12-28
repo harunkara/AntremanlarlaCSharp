@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaVizeRecursive\oktayHocaVizeRecursive\bin\Debug\oktayHocaVizeRecursive.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaVizeRecursive\oktayHocaVizeRecursive\bin\Debug\oktayHocaVizeRecursive.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaVizeRecursive\oktayHocaVizeRecursive\bin\Debug\oktayHocaVizeRecursive.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaVizeRecursive\oktayHocaVizeRecursive\obj\Debug\oktayHocaVizeRecursive.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaVizeRecursive\oktayHocaVizeRecursive\obj\Debug\oktayHocaVizeRecursive.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaVizeRecursive\oktayHocaVizeRecursive\obj\Debug\oktayHocaVizeRecursive.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\oktayHocaVizeRecursive\oktayHocaVizeRecursive\obj\Debug\oktayHocaVizeRecursive.pdb

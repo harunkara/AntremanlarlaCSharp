@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basamakDegeri\basamakDegeri\bin\Debug\basamakDegeri.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basamakDegeri\basamakDegeri\bin\Debug\basamakDegeri.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basamakDegeri\basamakDegeri\bin\Debug\basamakDegeri.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basamakDegeri\basamakDegeri\obj\Debug\basamakDegeri.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basamakDegeri\basamakDegeri\obj\Debug\basamakDegeri.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basamakDegeri\basamakDegeri\obj\Debug\basamakDegeri.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basamakDegeri\basamakDegeri\obj\Debug\basamakDegeri.csprojAssemblyReference.cache

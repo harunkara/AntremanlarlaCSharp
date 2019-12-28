@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\noktaUzaklık\noktaUzaklık\bin\Debug\noktaUzaklık.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\noktaUzaklık\noktaUzaklık\bin\Debug\noktaUzaklık.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\noktaUzaklık\noktaUzaklık\bin\Debug\noktaUzaklık.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\noktaUzaklık\noktaUzaklık\obj\Debug\noktaUzaklık.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\noktaUzaklık\noktaUzaklık\obj\Debug\noktaUzaklık.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\noktaUzaklık\noktaUzaklık\obj\Debug\noktaUzaklık.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\noktaUzaklık\noktaUzaklık\obj\Debug\noktaUzaklık.pdb

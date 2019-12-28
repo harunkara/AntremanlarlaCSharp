@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\carpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\carpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\carpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\carpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\carpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\carpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\carpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.pdb

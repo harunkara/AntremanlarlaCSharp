@@ -1,0 +1,6 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basariliBasarisiz\basariliBasarisiz\bin\Debug\basariliBasarisiz.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basariliBasarisiz\basariliBasarisiz\bin\Debug\basariliBasarisiz.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basariliBasarisiz\basariliBasarisiz\bin\Debug\basariliBasarisiz.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basariliBasarisiz\basariliBasarisiz\obj\Debug\basariliBasarisiz.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basariliBasarisiz\basariliBasarisiz\obj\Debug\basariliBasarisiz.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\basariliBasarisiz\basariliBasarisiz\obj\Debug\basariliBasarisiz.pdb

@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\randomSayılarDiziler\randomSayılarDiziler\bin\Debug\randomSayılarDiziler.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\randomSayılarDiziler\randomSayılarDiziler\bin\Debug\randomSayılarDiziler.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\randomSayılarDiziler\randomSayılarDiziler\bin\Debug\randomSayılarDiziler.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\randomSayılarDiziler\randomSayılarDiziler\obj\Debug\randomSayılarDiziler.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\randomSayılarDiziler\randomSayılarDiziler\obj\Debug\randomSayılarDiziler.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\randomSayılarDiziler\randomSayılarDiziler\obj\Debug\randomSayılarDiziler.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\randomSayılarDiziler\randomSayılarDiziler\obj\Debug\randomSayılarDiziler.pdb

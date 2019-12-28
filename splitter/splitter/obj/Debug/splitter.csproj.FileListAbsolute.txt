@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\splitter\splitter\bin\Debug\splitter.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\splitter\splitter\bin\Debug\splitter.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\splitter\splitter\bin\Debug\splitter.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\splitter\splitter\obj\Debug\splitter.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\splitter\splitter\obj\Debug\splitter.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\splitter\splitter\obj\Debug\splitter.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\splitter\splitter\obj\Debug\splitter.pdb

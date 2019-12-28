@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\çokBoyutluDizi\çokBoyutluDizi\bin\Debug\çokBoyutluDizi.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\çokBoyutluDizi\çokBoyutluDizi\bin\Debug\çokBoyutluDizi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\çokBoyutluDizi\çokBoyutluDizi\bin\Debug\çokBoyutluDizi.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\çokBoyutluDizi\çokBoyutluDizi\obj\Debug\çokBoyutluDizi.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\çokBoyutluDizi\çokBoyutluDizi\obj\Debug\çokBoyutluDizi.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\çokBoyutluDizi\çokBoyutluDizi\obj\Debug\çokBoyutluDizi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\çokBoyutluDizi\çokBoyutluDizi\obj\Debug\çokBoyutluDizi.pdb

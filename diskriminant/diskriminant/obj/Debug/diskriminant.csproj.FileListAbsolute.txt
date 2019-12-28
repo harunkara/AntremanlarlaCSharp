@@ -1,0 +1,6 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diskriminant\diskriminant\bin\Debug\diskriminant.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diskriminant\diskriminant\bin\Debug\diskriminant.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diskriminant\diskriminant\bin\Debug\diskriminant.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diskriminant\diskriminant\obj\Debug\diskriminant.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diskriminant\diskriminant\obj\Debug\diskriminant.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diskriminant\diskriminant\obj\Debug\diskriminant.pdb

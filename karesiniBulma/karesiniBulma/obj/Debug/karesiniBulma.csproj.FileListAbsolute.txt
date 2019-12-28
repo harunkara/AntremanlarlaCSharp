@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karesiniBulma\karesiniBulma\bin\Debug\karesiniBulma.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karesiniBulma\karesiniBulma\bin\Debug\karesiniBulma.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karesiniBulma\karesiniBulma\bin\Debug\karesiniBulma.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karesiniBulma\karesiniBulma\obj\Debug\karesiniBulma.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karesiniBulma\karesiniBulma\obj\Debug\karesiniBulma.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karesiniBulma\karesiniBulma\obj\Debug\karesiniBulma.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\karesiniBulma\karesiniBulma\obj\Debug\karesiniBulma.pdb

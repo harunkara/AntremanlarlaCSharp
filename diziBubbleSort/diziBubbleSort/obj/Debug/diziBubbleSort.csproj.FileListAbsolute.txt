@@ -1,0 +1,14 @@
+C:\Users\harun\source\repos\diziBubbleSort\diziBubbleSort\bin\Debug\diziBubbleSort.exe.config
+C:\Users\harun\source\repos\diziBubbleSort\diziBubbleSort\bin\Debug\diziBubbleSort.exe
+C:\Users\harun\source\repos\diziBubbleSort\diziBubbleSort\bin\Debug\diziBubbleSort.pdb
+C:\Users\harun\source\repos\diziBubbleSort\diziBubbleSort\obj\Debug\diziBubbleSort.csprojAssemblyReference.cache
+C:\Users\harun\source\repos\diziBubbleSort\diziBubbleSort\obj\Debug\diziBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\diziBubbleSort\diziBubbleSort\obj\Debug\diziBubbleSort.exe
+C:\Users\harun\source\repos\diziBubbleSort\diziBubbleSort\obj\Debug\diziBubbleSort.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziBubbleSort\diziBubbleSort\bin\Debug\diziBubbleSort.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziBubbleSort\diziBubbleSort\bin\Debug\diziBubbleSort.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziBubbleSort\diziBubbleSort\bin\Debug\diziBubbleSort.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziBubbleSort\diziBubbleSort\obj\Debug\diziBubbleSort.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziBubbleSort\diziBubbleSort\obj\Debug\diziBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziBubbleSort\diziBubbleSort\obj\Debug\diziBubbleSort.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\diziBubbleSort\diziBubbleSort\obj\Debug\diziBubbleSort.pdb

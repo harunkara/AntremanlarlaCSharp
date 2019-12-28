@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yasinHocaOgrBilgi\yasinHocaOgrBilgi\bin\Debug\yasinHocaOgrBilgi.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yasinHocaOgrBilgi\yasinHocaOgrBilgi\bin\Debug\yasinHocaOgrBilgi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yasinHocaOgrBilgi\yasinHocaOgrBilgi\bin\Debug\yasinHocaOgrBilgi.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yasinHocaOgrBilgi\yasinHocaOgrBilgi\obj\Debug\yasinHocaOgrBilgi.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yasinHocaOgrBilgi\yasinHocaOgrBilgi\obj\Debug\yasinHocaOgrBilgi.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yasinHocaOgrBilgi\yasinHocaOgrBilgi\obj\Debug\yasinHocaOgrBilgi.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yasinHocaOgrBilgi\yasinHocaOgrBilgi\obj\Debug\yasinHocaOgrBilgi.pdb

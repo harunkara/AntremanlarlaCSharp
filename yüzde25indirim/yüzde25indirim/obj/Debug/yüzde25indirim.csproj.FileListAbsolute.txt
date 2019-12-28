@@ -1,0 +1,7 @@
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yüzde25indirim\yüzde25indirim\bin\Debug\yüzde25indirim.exe.config
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yüzde25indirim\yüzde25indirim\bin\Debug\yüzde25indirim.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yüzde25indirim\yüzde25indirim\bin\Debug\yüzde25indirim.pdb
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yüzde25indirim\yüzde25indirim\obj\Debug\yüzde25indirim.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yüzde25indirim\yüzde25indirim\obj\Debug\yüzde25indirim.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yüzde25indirim\yüzde25indirim\obj\Debug\yüzde25indirim.exe
+C:\Users\harun\Desktop\2018-2019 Bahar(2.donem)\projeler c#\yüzde25indirim\yüzde25indirim\obj\Debug\yüzde25indirim.pdb
